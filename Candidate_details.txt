@@ -1,0 +1,6 @@
+Candidate Name:Supritha
+Candidate Email:s@gmail.com
+Candidate age:23
+Candidate gender:2
+Department:2
+Batch:2021
